@@ -1,0 +1,2 @@
+# Scala
+learn Scala
